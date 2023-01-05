@@ -1,0 +1,32 @@
+#directories
+bin/
+build/
+dist/
+tmp/
+.gradle/
+logs/
+temp/
+output/
+out/
+.idea/
+
+*.class
+
+# Eclipse files (keeping out for now)
+.project
+.classpath
+.settings/
+
+# Intellij
+.idea/workspace.xml
+*.iml
+
+# MySQLWorkbench backup files
+*.mwb.bak
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+
+
